@@ -9,7 +9,7 @@ useSeoMeta({
         <!-- Hero Section -->
         <section class="container mx-auto p-3 md:px-48 lg:px-48 xl:px-48">
             <div class="flex justify-center items-center p-4 h-48 md:h-32 lg:h-32 xl:h-32">
-                <h3 class="text-4xl font-bold text-center font-bang px-8">টিভি দেখতে মাসিক বিল দিতে দিতে ক্লান্ত ?
+                <h3 class="text-5xl font-bold text-center font-bang px-8">টিভি দেখতে মাসিক বিল দিতে দিতে ক্লান্ত ?
                 </h3>
             </div>
         </section>
