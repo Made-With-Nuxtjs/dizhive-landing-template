@@ -1,6 +1,7 @@
 <template>
-    <footer class="flex justify-center bg-[#f0f2f5]">
-        <div class="py-8 px-4 sm:px-8 lg:px-16 pt-8 md:pt-16 lg:pt-16 xl:pt-16">
+    <div class="flex justify-center bg-[#f0f2f5]">
+        <div
+            class="container mx-auto p-3 md:px-48 lg:px-48 xl:px-48  py-8 px-4 sm:px-8 pt-8 md:pt-16 lg:pt-16 xl:pt-16">
             <div class="w-full bg-white rounded-lg border-t-[12px] border-2 border-black shadow-lg">
                 <div class="pt-6">
                     <h2 class="text-center text-2xl md:text-4xl lg:text-4xl xl:text-5xl font-bold p-2">অর্ডার করতে
@@ -122,16 +123,20 @@
                                     <a href="#" class="text-red-500">privacy policy</a>.
                                 </p>
 
-                                <a href="/"
-                                    class="w-full h-14 flex justify-center items-center  text-white text-sm font-semibold py-2 rounded-sm bg-[#ec1c24] hover:bg-[#000000] mt-4">
-                                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
-                                        stroke-width="1.5" stroke="currentColor" class="w-6 h-6 text-red-500 mr-2">
-                                        <path stroke-linecap="round" stroke-linejoin="round"
-                                            d="M16.5 10.5V7.5a4.5 4.5 0 10-9 0v3m12 0a2.25 2.25 0 012.25 2.25v6a2.25 2.25 0 01-2.25 2.25h-12A2.25 2.25 0 013 18.75v-6A2.25 2.25 0 015.25 10.5h13.5z" />
-                                    </svg>
-
-                                    <p>অর্ডার করুন 250.00 ৳&nbsp;</p>
+                                <a href="/success"
+                                    class="w-full h-14 flex justify-center items-center gap-3 text-sm font-semibold py-2 rounded-sm bg-[#ec1c24] hover:bg-[#000000] mt-4">
+                                    <div>
+                                        <svg aria-hidden="true" class="e-font-icon-svg e-fas-lock h-5 w-5 text-white"
+                                            fill="currentColor" viewBox="0 0 448 512"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <path
+                                                d="M400 224h-24v-72C376 68.92 307.08 0 224 0S72 68.92 72 152v72H48c-26.51 0-48 21.49-48 48v192c0 26.51 21.49 48 48 48h352c26.51 0 48-21.49 48-48V272c0-26.51-21.49-48-48-48zM144 152c0-44.18 35.82-80 80-80s80 35.82 80 80v72H144v-72zm96 200c0 13.25-10.75 24-24 24s-24-10.75-24-24v-48c0-13.25 10.75-24 24-24s24 10.75 24 24v48z">
+                                            </path>
+                                        </svg>
+                                    </div>
+                                    <p class="text-lg text-white">অর্ডার করুন 250.00 ৳&nbsp;</p>
                                 </a>
+
                             </div>
                         </div>
                     </div>
@@ -139,7 +144,7 @@
                 </div>
             </div>
         </div>
-    </footer>
+    </div>
 </template>
 
 

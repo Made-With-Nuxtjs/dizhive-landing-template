@@ -1,9 +1,9 @@
-/** @type {import('tailwindcss').Config} */
 export default {
-  content: [],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        sans: ['Hind Siliguri', 'sans-serif'], // Add your Google font
+      },
+    },
   },
-  plugins: [],
-}
-
+};
