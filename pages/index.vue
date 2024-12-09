@@ -4,7 +4,6 @@ useSeoMeta({
 })
 </script>
 <template>
-
     <main>
         <!-- Hero Section -->
         <section class="container mx-auto p-3 md:px-48 lg:px-48 xl:px-48">
@@ -179,7 +178,6 @@ useSeoMeta({
         </section>
 
         <!-- order Section -->
-
         <section>
             <OrderForm />
         </section>
