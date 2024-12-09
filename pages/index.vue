@@ -8,7 +8,8 @@ useSeoMeta({
         <!-- Hero Section -->
         <section class="container mx-auto p-3 md:px-48 lg:px-48 xl:px-48">
             <div class="flex justify-center items-center p-4 h-48 md:h-32 lg:h-32 xl:h-32">
-                <h3 class="text-4xl md:text-5xl lg:text-5xl xl:text-5xl font-bold text-center font-bang px-8">টিভি দেখতে মাসিক বিল দিতে দিতে ক্লান্ত ?
+                <h3 class="text-4xl md:text-5xl lg:text-5xl xl:text-5xl font-bold text-center font-bang px-8">টিভি দেখতে
+                    মাসিক বিল দিতে দিতে ক্লান্ত ?
                 </h3>
             </div>
         </section>
@@ -96,21 +97,22 @@ useSeoMeta({
             <div
                 class="flex flex-col gap-8 md:gap-16 lg:gap-16 justify-center items-center py-8 md:py-12 lg:py-12 xl:py-12">
                 <div class="md:w-[560px] lg:w-[560px] xl:w-[560px]">
-                    <div class="px-2 rounded-lg shadow-md border-4  md:border-2 lg:border-2 xl:border-2 border-[#73b243]">
+                    <div
+                        class="px-2 rounded-lg shadow-md border-4  md:border-2 lg:border-2 xl:border-2 border-[#73b243]">
                         <h1
                             class="text-[#73b243] text-xl md:text-4xl lg:text-4xl xl:text-4xl font-bold m-4 text-center py-2 md:py-6 lg:py-6 xl:py-6">
                             এই 'নাম' এর বিশেষ বৈশিষ্ট্যঃ
                         </h1>
                         <hr class="border-gray-700 mx-1">
                         <ul class="list-none space-y-2 my-4 font-semibold">
-                            <li class="flex items-center text-xl">
+                            <li class="flex items-center text-lg xl:text-2xl">
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                                     stroke-width="1.5" stroke="currentColor" class="w-6 h-6 text-green-500 mr-2">
                                     <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" />
                                 </svg>
                                 <p>সচরাচর কোনো বাফারিং হবে না।</p>
                             </li>
-                            <li class="flex items-center text-xl">
+                            <li class="flex items-center text-lg xl:text-2xl">
                                 <div>
                                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                                         stroke-width="1.5" stroke="currentColor" class="w-6 h-6 text-green-500 mr-2">
@@ -120,7 +122,7 @@ useSeoMeta({
                                 </div>
                                 <p>মোবাইল নেটের স্পিড থাকলেও এই এপ্ল টি চলবে।</p>
                             </li>
-                            <li class="flex items-center text-xl">
+                            <li class="flex items-center text-lg xl:text-2xl">
                                 <div>
                                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                                         stroke-width="1.5" stroke="currentColor" class="w-6 h-6 text-green-500 mr-2">
