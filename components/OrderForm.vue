@@ -4,7 +4,7 @@
             class="container mx-auto p-3 md:px-48 lg:px-48 xl:px-48  py-8 px-4 sm:px-8 pt-8 md:pt-16 lg:pt-16 xl:pt-16">
             <div class="w-full bg-white rounded-lg border-t-[12px] border-2 border-black shadow-lg">
                 <div class="pt-6">
-                    <h2 class="text-center text-2xl md:text-4xl lg:text-4xl xl:text-5xl font-bold p-2">অর্ডার করতে
+                    <h2 class="text-center text-3xl md:text-4xl lg:text-4xl xl:text-5xl font-bold font-bang p-2">অর্ডার করতে
                         নিচের ফর্মটি পূরন করুন
                     </h2>
                     <p
