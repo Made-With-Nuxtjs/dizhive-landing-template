@@ -8,7 +8,7 @@
                         নিচের ফর্মটি পূরন করুন
                     </h2>
                     <p
-                        class="text-center p-3 text-sm md:text-md lg:text-lg xl:text-lg font-bold italic text-red-600 underline underline-offset-1">
+                        class="text-center p-3 text-sm md:text-md lg:text-lg xl:text-lg font-bang font-bold italic text-red-600 underline underline-offset-1">
                         ** নগদ, রকেট বা উপায় তে পেমেন্ট করতে আমাদের WhatsApp নাম্বারে যোগাজোগ করুন **
                     </p>
 
@@ -124,9 +124,9 @@
                                 </p>
 
                                 <a href="/success"
-                                    class="w-full h-14 flex justify-center items-center gap-3 text-sm font-semibold py-2 rounded-sm bg-[#ec1c24] hover:bg-[#000000] mt-4">
+                                    class="w-full h-14 flex justify-center items-center gap-2 py-2 rounded-sm bg-[#ec1c24] hover:bg-[#000000] mt-4">
                                     <div>
-                                        <svg aria-hidden="true" class="e-font-icon-svg e-fas-lock h-5 w-5 text-white"
+                                        <svg aria-hidden="true" class="e-font-icon-svg e-fas-lock h-4 w-4 text-white"
                                             fill="currentColor" viewBox="0 0 448 512"
                                             xmlns="http://www.w3.org/2000/svg">
                                             <path
@@ -134,7 +134,7 @@
                                             </path>
                                         </svg>
                                     </div>
-                                    <p class="text-lg text-white">অর্ডার করুন 250.00 ৳&nbsp;</p>
+                                    <p class="text-sm text-white font-semibold">অর্ডার করুন 250.00 ৳&nbsp;</p>
                                 </a>
 
                             </div>

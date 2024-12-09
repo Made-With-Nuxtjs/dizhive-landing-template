@@ -1,6 +1,7 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap'); /* Importing Roboto font */
+@import url('https://fonts.googleapis.com/css2?family=Anton+SC&family=Hind+Siliguri:wght@300;400;500;600;700&display=swap'); /* Your other font */
 @import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
