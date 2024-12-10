@@ -18,13 +18,12 @@ useSeoMeta({
                             </svg>
                         </div>
                         <div>
-                            <h3 class="text-2xl text-center font-bold">whoops Failed !</h3>
+                            <h3 class="text-2xl text-center font-bold">oops Failed !</h3>
                         </div>
                     </div>
                     <a href="/"
                         class="p-3 font-serif text-xl cursor-pointer text-white font-bold rounded-sm transition duration-150 ease-in-out bg-[#73b243] hover:-translate-y-1 hover:scale-110 hover:bg-[#050505]">
                         Please Try Again
-
                     </a>
                 </div>
             </div>
