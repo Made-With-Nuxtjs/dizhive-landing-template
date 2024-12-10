@@ -1,3 +1,9 @@
+<script setup lang="ts">
+useSeoMeta({
+    title: 'Order Failed-DizHive E-book',
+})
+</script>
+
 <template>
     <section class="container mx-auto p-3 md:px-48 lg:px-48 xl:px-48">
         <div class="flex justify-center py-4 md:p-16 lg:p-16 xl:p-16">
@@ -12,7 +18,7 @@
                             </svg>
                         </div>
                         <div>
-                            <h3 class="text-2xl text-center font-bold">Opus Failed !</h3>
+                            <h3 class="text-2xl text-center font-bold">whoops Failed !</h3>
                         </div>
                     </div>
                     <a href="/"

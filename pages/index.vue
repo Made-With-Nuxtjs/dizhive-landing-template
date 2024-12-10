@@ -172,7 +172,6 @@ useSeoMeta({
                                 </svg>
                             </div>
                             <p class="font-custom text-white font-semibold ">01500-000 000</p>
-
                         </div>
                     </div>
                 </div>
