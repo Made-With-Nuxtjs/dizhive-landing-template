@@ -34,13 +34,7 @@ function stateChange(event: { data: number; }) {
                         তাহলে একবার পেমেন্টেই টিভি দেখুন নিশ্চিন্তে</h3>
                 </div>
             </div>
-
-            <div class="relative w-full overflow-hidden" style="padding-top: 56.25%">
-                <iframe class="absolute top-0 left-0 w-full h-full" src="https://www.youtube.com/embed/UHciHtsuFnw"
-                    title="YouTube video" label="tailwind-video" alt="for-check-video" allowfullscreen>
-                </iframe>
-            </div>
-            <!-- <ScriptYouTubePlayer ref="video" video-id="d_IFKP1Ofq0" @ready="isLoaded = true"
+            <ScriptYouTubePlayer ref="video" video-id="d_IFKP1Ofq0" style="width:100%" @ready="isLoaded = true"
                 @state-change="stateChange">
                 <template #awaitingLoad>
                     <div
@@ -53,7 +47,7 @@ function stateChange(event: { data: number; }) {
                         </svg>
                     </div>
                 </template>
-            </ScriptYouTubePlayer> -->
+            </ScriptYouTubePlayer>
         </section>
 
         <!-- Features Section -->
