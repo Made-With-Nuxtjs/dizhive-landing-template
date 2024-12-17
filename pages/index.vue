@@ -65,51 +65,33 @@ function stateChange(event: { data: number; }) {
             <div>
                 <ul class="list-none ">
                     <li class="flex items-center border border-green-500 p-1">
-                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
-                            stroke="currentColor" class="w-6 h-6 text-green-500 mr-2">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" />
-                        </svg>
+                        <Icon class="h-8 w-8" name="material-symbols-light:check" style="color: green; padding: 10px;" />
                         <span class="font-bang font-semibold text-lg md:text-2xl lg:text-2xl xl:text-2xl">খেলা দেখার
                             প্রায় সকল চ্যানেল আছে</span>
                     </li>
                     <li class="flex items-center border-x border-b border-green-500 p-1">
-                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
-                            stroke="currentColor" class="w-6 h-6 text-green-500 mr-2">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" />
-                        </svg>
+                        <Icon class="h-8 w-8" name="material-symbols-light:check" style="color: green; padding: 10px;" />
                         <span class="font-bang font-semibold text-lg md:text-2xl lg:text-2xl xl:text-2xl">বাংলাদেশি
                             প্রায় সকল চ্যানেল আছে</span>
                     </li>
                     <li class="flex items-center border-x border-b border-green-500 p-1">
-                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
-                            stroke="currentColor" class="w-6 h-6 text-green-500 mr-2">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" />
-                        </svg>
+                        <Icon class="h-8 w-8" name="material-symbols-light:check" style="color: green; padding: 10px;" />
                         <span class="font-bang font-semibold text-lg md:text-2xl lg:text-2xl xl:text-2xl">বাংলাদেশি
                             প্রায় সকল নিউজ চ্যানেল আছে</span>
                     </li>
                     <li class="flex items-center border-x border-b border-green-500 p-1">
-                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
-                            stroke="currentColor" class="w-6 h-6 text-green-500 mr-2">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" />
-                        </svg>
+                        <Icon class="h-8 w-8" name="material-symbols-light:check" style="color: green; padding: 10px;" />
 
                         <span class="font-bang font-semibold text-lg md:text-2xl lg:text-2xl xl:text-2xl">ইন্ডিয়ান
                             সিরিয়াল দেখার সকল চ্যানেল আছে</span>
                     </li>
                     <li class="flex items-center border-x border-b border-green-500 p-1">
-                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
-                            stroke="currentColor" class="w-6 h-6 text-green-500 mr-2">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" />
-                        </svg>
+                        <Icon class="h-8 w-8" name="material-symbols-light:check" style="color: green; padding: 10px;" />
                         <span class="font-bang font-semibold text-lg md:text-2xl lg:text-2xl xl:text-2xl">বাচ্চাদের
                             কার্টুন দেখার সকল চ্যানেল আছে</span>
                     </li>
                     <li class="flex items-center border-x border-b border-green-500 p-1">
-                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
-                            stroke="currentColor" class="w-6 h-6 text-green-500 mr-2">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" />
-                        </svg>
+                        <Icon class="h-8 w-8" name="material-symbols-light:check" style="color: green; padding: 10px;" />
                         <span class="font-bang font-semibold text-lg md:text-2xl lg:text-2xl xl:text-2xl">এবং আরো অনেক
                             কিছু . . . . .</span>
                     </li>
@@ -131,39 +113,25 @@ function stateChange(event: { data: number; }) {
                         <hr class="border-gray-700 mx-1">
                         <ul class="list-none space-y-2 my-4 font-semibold">
                             <li class="flex items-center text-lg xl:text-2xl">
-                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
-                                    stroke-width="1.5" stroke="currentColor" class="w-6 h-6 text-green-500 mr-2">
-                                    <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" />
-                                </svg>
+                                <Icon class="h-8 w-8" name="material-symbols-light:check" style="color: green; padding: 10px;" />
                                 <p>সচরাচর কোনো বাফারিং হবে না।</p>
                             </li>
                             <li class="flex items-center text-lg xl:text-2xl">
                                 <div>
-                                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
-                                        stroke-width="1.5" stroke="currentColor" class="w-6 h-6 text-green-500 mr-2">
-                                        <path stroke-linecap="round" stroke-linejoin="round"
-                                            d="M4.5 12.75l6 6 9-13.5" />
-                                    </svg>
+                                    <Icon class="h-8 w-8" name="material-symbols-light:check" style="color: green; padding: 10px;" />
                                 </div>
                                 <p>মোবাইল নেটের স্পিড থাকলেও এই এপ্ল টি চলবে।</p>
                             </li>
                             <li class="flex items-center text-lg xl:text-2xl">
                                 <div>
-                                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
-                                        stroke-width="1.5" stroke="currentColor" class="w-6 h-6 text-green-500 mr-2">
-                                        <path stroke-linecap="round" stroke-linejoin="round"
-                                            d="M4.5 12.75l6 6 9-13.5" />
-                                    </svg>
+                                    <Icon class="h-8 w-8" name="material-symbols-light:check" style="color: green; padding: 10px;" />
                                 </div>
                                 <p>যেকোনো সময় এপ্লটি আপডেট দিতে পারবেন ফ্রি তে!</p>
                             </li>
                         </ul>
                         <div class="flex justify-center items-center py-6">
                             <div>
-                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
-                                    stroke-width="1.5" stroke="currentColor" class="w-6 h-6 text-red-500 mr-2">
-                                    <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
-                                </svg>
+                                <Icon class="h-8 w-8" name="material-symbols-light:close" style="color: red;" />
                             </div>
                             <div class="flex justify-center font-semibold pb-4">
                                 <div class="w-full">
